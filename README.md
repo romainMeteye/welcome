@@ -14,3 +14,5 @@ Bon alors je vais une liste des langues de programations parce que ça aussi on 
 - PHP
 - Python c'est trois la c'est pour le serveur, ce... j'ai pas trop de mot approprié
 - SQL pour les base de données et j'ai vraiment plus d'idée de bétises.
+
+Je dois rajouter une section au choix du coup je décide de faire ces quelques lignes pour dire que la vie c'est quand même un peu sympa.
